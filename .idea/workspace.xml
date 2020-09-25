@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -68,6 +70,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -134,6 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
       </list>
     </recent_temporary>
@@ -164,22 +183,22 @@
       <screen x="60" y="27" width="1306" height="741" />
     </state>
     <state x="291" y="59" width="824" height="691" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/60.27.1306.741@60.27.1306.741" timestamp="1601032327695" />
-    <state width="1260" height="172" key="GridCell.Tab.0.bottom" timestamp="1601034332629">
+    <state width="1260" height="172" key="GridCell.Tab.0.bottom" timestamp="1601035661724">
       <screen x="60" y="27" width="1306" height="741" />
     </state>
-    <state width="1260" height="172" key="GridCell.Tab.0.bottom/60.27.1306.741@60.27.1306.741" timestamp="1601034332629" />
-    <state width="1260" height="172" key="GridCell.Tab.0.center" timestamp="1601034332627">
+    <state width="1260" height="172" key="GridCell.Tab.0.bottom/60.27.1306.741@60.27.1306.741" timestamp="1601035661724" />
+    <state width="1260" height="172" key="GridCell.Tab.0.center" timestamp="1601035661724">
       <screen x="60" y="27" width="1306" height="741" />
     </state>
-    <state width="1260" height="172" key="GridCell.Tab.0.center/60.27.1306.741@60.27.1306.741" timestamp="1601034332627" />
-    <state width="1260" height="172" key="GridCell.Tab.0.left" timestamp="1601034332626">
+    <state width="1260" height="172" key="GridCell.Tab.0.center/60.27.1306.741@60.27.1306.741" timestamp="1601035661724" />
+    <state width="1260" height="172" key="GridCell.Tab.0.left" timestamp="1601035661723">
       <screen x="60" y="27" width="1306" height="741" />
     </state>
-    <state width="1260" height="172" key="GridCell.Tab.0.left/60.27.1306.741@60.27.1306.741" timestamp="1601034332626" />
-    <state width="1260" height="172" key="GridCell.Tab.0.right" timestamp="1601034332628">
+    <state width="1260" height="172" key="GridCell.Tab.0.left/60.27.1306.741@60.27.1306.741" timestamp="1601035661723" />
+    <state width="1260" height="172" key="GridCell.Tab.0.right" timestamp="1601035661724">
       <screen x="60" y="27" width="1306" height="741" />
     </state>
-    <state width="1260" height="172" key="GridCell.Tab.0.right/60.27.1306.741@60.27.1306.741" timestamp="1601034332628" />
+    <state width="1260" height="172" key="GridCell.Tab.0.right/60.27.1306.741@60.27.1306.741" timestamp="1601035661724" />
     <state x="369" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1601033713813">
       <screen x="60" y="27" width="1306" height="741" />
     </state>
